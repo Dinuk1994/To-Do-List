@@ -1,8 +1,7 @@
 body{
-    display: flex;
     justify-content: center;
     justify-items: center;
-    background-color: yellowgreen;
+    background-color: #3E3232;
 }
 
 #button{
@@ -15,6 +14,13 @@ body{
 }
 
 #text{
+    width: 500px;
     height: 25px;
     border-radius: 15px;
+    padding-left: 5px;
+}
+
+#heading{
+    color: white;
+    display: flex;
 }
