@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: yellowgreen;
+}
+
+#button{
+    color: white;
+    font-weight: bolder;
+    background-color: aqua;
+    width: 60px;  
+    height: 30px;
+    border-radius: 15px;
+}
+
+#text{
+    height: 25px;
+    border-radius: 15px;
+}
